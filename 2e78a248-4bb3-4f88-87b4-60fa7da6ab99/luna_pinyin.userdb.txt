@@ -1,0 +1,68 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	95
+#@/user_id	2e78a248-4bb3-4f88-87b4-60fa7da6ab99
+an zhuang 	安裝	c=1 d=1 t=32
+ba 	把	c=1 d=1 t=43
+biao dian 	標點	c=1 d=1 t=88
+can kao 	參考	c=1 d=1 t=39
+cha jian 	插件	c=2 d=1.99005 t=35
+cheng gong 	成功	c=2 d=1.99005 t=82
+dai ma 	代碼	c=1 d=1 t=44
+dian kai 	點開	c=1 d=1 t=42
+dun hao 	頓號	c=2 d=1.99005 t=91
+en 	恩	c=2 d=1.40818 t=95
+fan qiang 	翻牆	c=1 d=1 t=34
+fan ye 	翻頁	c=1 d=1 t=57
+fang an 	方案	c=1 d=0.960789 t=95
+fu zhi 	複製	c=1 d=1 t=45
+hao de 	好的	c=1 d=1 t=54
+hei se 	黑色	c=1 d=0.99005 t=95
+hun he 	混合	c=1 d=1 t=65
+huo 	或	c=1 d=1 t=26
+jia ru 	加入	c=1 d=1 t=53
+jing xiang 	鏡像	c=2 d=1.99501 t=71
+jiu xing 	就行	c=1 d=1 t=47
+ke yi 	可以	c=1 d=1 t=38
+kong zhi tai 	控制檯	c=1 d=1 t=49
+kuo hao 	括號	c=3 d=2.62037 t=93
+le 	了	c=1 d=1 t=48
+man 	慢	c=1 d=1 t=78
+mian fei 	免費	c=1 d=1 t=83
+mo hu 	模糊	c=2 d=1.99501 t=21
+ni 	你	c=2 d=1.75201 t=94
+pei zhi 	配置	c=1 d=0.970446 t=95
+pi fu 	皮膚	c=2 d=1.34403 t=95
+ruan jian 	軟件	c=1 d=0.951229 t=95
+shang ping 	上屏	c=1 d=1 t=19
+she zhi 	設置	c=7 d=6.17736 t=90
+shi 	是	c=0 d=0.0995012 t=95
+shu guan xu 	鼠管須	c=9 d=6.09142 t=95
+shu ru 	輸入	c=1 d=1 t=66
+shu ru fa 	輸入法	c=1 d=1 t=24
+shu xu guan 	鼠鬚管	c=4 d=3.29546 t=95
+shun xu 	順序	c=1 d=1 t=85
+shuo de dui 	說得對	c=1 d=1 t=95
+ti gong 	提供	c=1 d=1 t=27
+wei hu 	維護	c=2 d=1.99005 t=77
+wei xiu 	維修	c=1 d=1 t=76
+wen dang 	文檔	c=1 d=1 t=41
+xi tong 	系統	c=1 d=1 t=72
+xia lai 	下來	c=1 d=1 t=46
+xia zai 	下載	c=3 d=2.06276 t=95
+xiang guan 	相關	c=1 d=1 t=73
+xiao guo 	效果	c=0 d=0.0995012 t=95
+xiao guo shi 	效果是	c=1 d=1 t=95
+xiao lang hao 	小狼毫	c=1 d=0.985112 t=95
+yi 	已	c=2 d=1.99005 t=81
+yi xia 	一下	c=1 d=1 t=40
+ying jian 	硬件	c=1 d=1 t=74
+yu 	與	c=1 d=0.955997 t=95
+yuan 	源	c=1 d=1 t=55
+zeng jia 	增加	c=1 d=1 t=84
+zhi xing 	執行	c=1 d=1 t=51
+zhong 	中	c=2 d=1.99005 t=52
+zhong wen 	中文	c=4 d=3.59568 t=92
+zhong ying 	中英	c=1 d=1 t=64
