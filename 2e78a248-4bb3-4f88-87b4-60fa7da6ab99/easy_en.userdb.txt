@@ -2,7 +2,19 @@
 #@/db_name	easy_en.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	3
+#@/tick	46
 #@/user_id	2e78a248-4bb3-4f88-87b4-60fa7da6ab99
-eclipse 	eclipse	c=2 d=1.98506 t=3
-you 	you	c=1 d=1 t=3
+american 	american	c=1 d=1 t=43
+as 	as	c=1 d=0.995012 t=46
+continue 	continue	c=5 d=4.78209 t=46
+eclipse 	eclipse	c=3 d=2.65806 t=46
+high 	high	c=1 d=0.941765 t=46
+icon 	icon	c=21 d=18.7273 t=46
+logo 	logo	c=2 d=1.68312 t=46
+macro 	macro	c=1 d=1 t=42
+music 	music	c=5 d=4.79144 t=46
+send 	send	c=1 d=0.965605 t=46
+show 	show	c=1 d=1 t=45
+sketch 	sketch	c=1 d=1 t=41
+verify 	verify	c=3 d=2.88723 t=46
+you 	you	c=1 d=1 t=46
