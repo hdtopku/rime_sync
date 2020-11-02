@@ -84,7 +84,7 @@ patch:
       #
       # 快捷键，更多参见 ori_default.yaml
       #
-      - { when: always, accept: Shift+space, toggle: full_shape } # Shift+space 切换全角/半角
+      - { when: always, accept: Shift+space, toggle: noop } # Shift+space 切换全角/半角
       - { when: has_menu, accept: minus, send: Page_Up }
       - { when: has_menu, accept: equal, send: Page_Down }
       #
