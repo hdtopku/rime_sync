@@ -2,19 +2,30 @@
 #@/db_name	easy_en.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	46
+#@/tick	66
 #@/user_id	2e78a248-4bb3-4f88-87b4-60fa7da6ab99
-american 	american	c=1 d=1 t=43
-as 	as	c=1 d=0.995012 t=46
-continue 	continue	c=5 d=4.78209 t=46
-eclipse 	eclipse	c=3 d=2.65806 t=46
-high 	high	c=1 d=0.941765 t=46
-icon 	icon	c=21 d=18.7273 t=46
-logo 	logo	c=2 d=1.68312 t=46
-macro 	macro	c=1 d=1 t=42
-music 	music	c=5 d=4.79144 t=46
-send 	send	c=1 d=0.965605 t=46
-show 	show	c=1 d=1 t=45
-sketch 	sketch	c=1 d=1 t=41
-verify 	verify	c=3 d=2.88723 t=46
-you 	you	c=1 d=1 t=46
+american 	american	c=1 d=0.985112 t=66
+as 	as	c=1 d=0.995012 t=66
+composer 	composer	c=1 d=1 t=62
+continue 	continue	c=5 d=4.78209 t=66
+eclipse 	eclipse	c=3 d=2.65806 t=66
+happy 	happy	c=2 d=1.99501 t=55
+high 	high	c=1 d=0.941765 t=66
+icon 	icon	c=21 d=18.7273 t=66
+idea 	idea	c=4 d=3.96037 t=52
+it 	it	c=1 d=1 t=65
+logo 	logo	c=2 d=1.68312 t=66
+macro 	macro	c=1 d=0.980199 t=66
+maintenance 	maintenance	c=1 d=1 t=66
+music 	music	c=8 d=7.10031 t=66
+offer 	offer	c=1 d=1 t=61
+office 	office	c=1 d=1 t=57
+party 	party	c=2 d=1.99501 t=59
+send 	send	c=1 d=0.965605 t=66
+show 	show	c=1 d=0.995012 t=66
+sketch 	sketch	c=1 d=0.97531 t=66
+teacher 	teacher	c=1 d=1 t=63
+verify 	verify	c=3 d=2.88723 t=66
+we 	we	c=1 d=1 t=64
+wonder 	wonder	c=2 d=1.98511 t=56
+you 	you	c=1 d=1 t=66
